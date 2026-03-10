@@ -1,0 +1,19 @@
+﻿module,description
+Accounts,User accounts & profiles
+Billing,Billing & invoices
+Orders,Order management
+Customers,Customer records
+Inventory,Inventory tracking
+Suppliers,Supplier management
+Shipping,Shipping & logistics
+Returns,Returns processing
+Payments,Payment processing
+Analytics,Analytics layer
+Auth,Authentication & authorization
+Notifications,User notifications
+Catalog,Product catalog
+Pricing,Price management
+Promotions,Promotions & discounts
+Compliance,Compliance checks
+Audit,Audit trails
+Reporting,Operational reporting
