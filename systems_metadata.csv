@@ -1,7 +1,0 @@
-system,technology,deployment,owner_team,notes
-PostgreSQL,PostgreSQL 14,on-prem & cloud,DBA,Application OLTP modules
-Qlik,Qlik Sense,cloud,BI,Dashboards & Apps
-DataWarehouse,Snowflake,cloud,Data Engineering,Staging/Core/Mart
-BigData,Hadoop/Spark,on-prem,Big Data,HDFS + Spark jobs
-Glue,AWS Glue,cloud,Data Platform,ETL jobs & crawlers
-OnPrem,Linux Servers,on-prem,Infra,Legacy systems
